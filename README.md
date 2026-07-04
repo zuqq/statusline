@@ -25,6 +25,14 @@ cargo build --release && cp target/release/statusline ~/.claude/statusline
 }
 ```
 
+## Development
+
+```bash
+cargo fmt
+cargo clippy
+cargo test
+```
+
 ## License
 
 [MIT](./LICENSE)
