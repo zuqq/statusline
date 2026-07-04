@@ -3,7 +3,7 @@
 A [Claude Code status line](https://code.claude.com/docs/en/statusline), styled after [Pure](https://github.com/sindresorhus/pure):
 
 ```
-Opus 4.8 (1M context) ~/statusline 44k/1M (4%)
+Opus 4.8 (1M context) ~/statusline master 44k/1M (4%)
 ```
 
 ## Installation
